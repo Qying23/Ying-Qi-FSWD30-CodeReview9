@@ -1,3 +1,3 @@
- Ying-Qi-FSWD30-CodeReview9
+Ying-Qi-FSWD30-CodeReview9
 
-Rent a Car  My SQL 
+Rent a Car Database with MySQL 
